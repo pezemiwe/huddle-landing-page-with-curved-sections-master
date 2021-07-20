@@ -22,6 +22,7 @@
 }
 .freebuton:hover {
     box-shadow: 1px 1px 3px 1px hsla(0, 0%, 0%, 0.3);
+    cursor: pointer;
 }
 .sectionb {
     text-align: center;
@@ -53,6 +54,7 @@
 }
 .b3:hover {
     background-color: hsl(322, 93%, 74%);
+    cursor: pointer;
 }
 .mockup {
     display: flex;
@@ -241,6 +243,7 @@
 }
 .buta:hover {
     background-color: hsl(322, 93%, 74%);
+    cursor: pointer;
 }
  .destopa {
     position: absolute;
@@ -265,6 +268,7 @@
 .icon:hover {
     border: 1px solid  hsl(210, 100%, 61%);
     background-color:  hsl(210, 100%, 61%);
+    cursor: pointer;
 }
 .icona {
     margin-left: 20px;
@@ -272,6 +276,7 @@
 }
 .icona:hover {
     color: hsl(210, 100%, 61%);
+    cursor: pointer;
 }
 #twit {
     margin-left: 20px;
